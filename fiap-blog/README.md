@@ -42,6 +42,8 @@ Para criar uma versão otimizada e pronta para produção do projeto, siga os se
 
 ## Como Entregar o Projeto em Produção 
 
+Atualmente o projeto está disponível em: [https://fiap-blog-josimar.netlify.app/](https://fiap-blog-josimar.netlify.app/)
+
 A seguir iremos abordar como implantar o projeto em um ambiente de produção, utilizando o serviço da Netlify.
 
 1. **Crie uma conta e faça o login no serviço de hospedagem Netlify**.
