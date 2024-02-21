@@ -8,7 +8,7 @@ Para rodar o projeto localmente em sua máquina, siga os seguintes passos:
 
 - **Clone o repositório**:
     ```bash
-    git clone <url_do_repositório>
+    git clone https://github.com/Jmar33/Estudos-Blog-Fiap.git
     ```
 
 - **Acesse o diretório do projeto**:
